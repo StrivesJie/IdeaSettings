@@ -1,7 +1,6 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="write" />
       <item value="params" />
       <item value="* Retrieves an option value based on an option name." />
     </histories>
@@ -12,9 +11,6 @@
         <entry key="CHINESE_TRADITIONAL" value="1" />
       </map>
     </option>
-  </component>
-  <component name="Cache">
-    <option name="lastTrimTime" value="1610417192133" />
   </component>
   <component name="Settings">
     <option name="ignoreRegExp" value="" />
