@@ -1,0 +1,9 @@
+<templateSet group="Zen CSS">
+  <template name="pos" value="position:$VAR0$;" description="position:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;relative&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="p" value="padding: $END$;" description="padding:...;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>
