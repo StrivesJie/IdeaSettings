@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="Mygroup" value="/**&#10; * @Description:&#10; * @param: $param$&#10; * @return: $return$&#10; * @auther: $user$&#10; * @date: $date$ $time$&#10; */" description="my function template" toReformat="false" toShortenFQNames="true">
+  <template name="Mygroup" value="/**&#10; * @Description:&#10; * @param: $param$&#10; * @return: $return$&#10; * @author: $user$&#10; * @date: $date$ $time$&#10; */" description="my function template" toReformat="false" toShortenFQNames="true">
     <variable name="param" expression="methodParameters()" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="methodReturnType()" defaultValue="" alwaysStopAt="true" />
     <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
