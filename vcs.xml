@@ -15,7 +15,11 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/hxrui/youlai-mall.git" />
+          <option name="url" value="https://hub.fastgit.org/spring-projects/spring-framework.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/y_project/RuoYi-Cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

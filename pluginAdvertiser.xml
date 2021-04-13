@@ -2340,7 +2340,7 @@
                   </entry>
                   <entry key="AndroidRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Android 应用" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android App" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="AndroidTestRunConfigurationType">
@@ -2695,7 +2695,7 @@
                 <map>
                   <entry key="apk">
                     <value>
-                      <FeaturePluginData displayName="Android 应用" pluginName="Android" pluginId="org.jetbrains.android" />
+                      <FeaturePluginData displayName="Android application" pluginName="Android" pluginId="org.jetbrains.android" />
                     </value>
                   </entry>
                   <entry key="ear">
